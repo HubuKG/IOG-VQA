@@ -4,9 +4,9 @@ This repo provides the source code & data of our paper IOG-VQA: [Integrating Obj
 
 ## Overview
 
-<div style="text-align: center;">
-    <img src="IOG-VQA/IOG-VQA.png" alt="Your Image" style="width=100%;">
-</div>
+
+<img src="IOG-VQA/IOG-VQA.png" alt="Your Image" style="width=100%;">
+
 
 ### 1. Prerequisites
 
