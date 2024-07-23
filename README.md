@@ -4,7 +4,7 @@ This repo provides the source code & data of our paper IOG-VQA: [Integrating Obj
 
 ## Overview
 
-![Overview of IOG-VQA](IOG-VQA/IOG-VQA.png)
+<img src="IOG-VQA/IOG-VQA.png" width="300">
 
 ### 1. Prerequisites
 
