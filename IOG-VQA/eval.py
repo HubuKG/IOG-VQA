@@ -1,7 +1,7 @@
 import argparse
 import json
 import os
-#import pickle          #新加的
+#import pickle         
 
 import torch
 from torch.utils.data import DataLoader
