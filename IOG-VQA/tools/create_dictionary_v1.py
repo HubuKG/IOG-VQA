@@ -35,8 +35,7 @@ def create_glove_embedding_init(idx2word, glove_file):
     for entry in entries:
         vals = entry.split(' ')
         word = vals[0]
-        #vals = map(float, vals[1:])    原代码出现map类型问题的地方
-        vals = list(map(float, vals[1:]))      #修改后
+        vals = list(map(float, vals[1:]))    
         word2emb[word] = np.array(vals)
     for idx, word in enumerate(idx2word):
         if word not in word2emb:
