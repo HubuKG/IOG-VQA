@@ -31,17 +31,17 @@ Download Glove from [this link](http://nlp.stanford.edu/data/glove.6B.zip), unzi
 
 Process the data with ``bash IOG-VQA/tools/process.sh``
 
-### 3. Training
+### 4. Training
 
 Run IOG-VQA by  ``python main.py --dataset cpv2`` 
 
 
-### 4. Evaluating
+### 5. Evaluating
 
 Run ``python eval.py --load_path DIRNAME``
 
-### 5. Acknowledgments
+### 6. Acknowledgments
 
 
 
-### 6. Citation
+### 7. Citation
